@@ -1,0 +1,23 @@
+{
+    "index_categories": [
+        {
+            "id": "profile",
+            "title": "personal profile",
+            "description": "As an aspiring young profesional. I would like to be in a work environment that inspires growth, both professionally and personally which is why I am applying for the graduates programme at SovTech, this ooportunity will help me kickstart my career and expose me to technologies relevant to the workplace. I am bringing in new cost effective innovation and concepts that might drive revenue growth for the organization.",
+            "image": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80"
+        },
+        {
+            "id": "education",
+            "title": "educational background",
+            "description": "National Diploma In Software Development : Mangosuthu University of Technology, Degree of Bachelor of Technology (BTech) In Software Development : Durban University of Technology " ,
+            "image": "https://images.unsplash.com/photo-1590012314607-cda9d9b699ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+        },
+        {
+            "id": "contact",
+            "title": "contact me",
+            "description": "Phone: 061 4003 127, Email: scelomkhwanazi93@gmail.com, url: https://www.linkedin.com/in/s-celo-mkhwanazi-015303166/",
+            "image": "https://images.unsplash.com/photo-1587560699334-bea93391dcef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29udGFjdCUyMHVzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        }
+        
+    ]
+}
